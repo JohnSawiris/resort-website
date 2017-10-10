@@ -1,12 +1,12 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: #20B2AA;
+  background-color: #FFE4B5;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 1px;
 }
 h1 {
-  color: #000;
+  color: 	#CD853F;
   text-align: center;
 }
 ul {
@@ -20,7 +20,7 @@ li{
 a {
   text-decoration: none;
   padding-left: 10px;
-  color: #fff;
+  color: #a2662a;
 }
 a:hover {
   color: #000;
@@ -42,7 +42,7 @@ p {
 }
 h3{
   text-align: center;
-  color: white;
+  color: 	#FA8072;
   font-size: 1.3em;
   letter-spacing: 10px;
 }
